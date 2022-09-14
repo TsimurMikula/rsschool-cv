@@ -3,8 +3,11 @@
 ---
 ### Contacts:
 **Telegram:** @mikulatim
+
 **Discord:** mikula_tim (@mikulatim)
+
 **E-mail:** mikulatsimur@yandex.ru
+
 **Tel:** +375(33)3633435
 
 ---
@@ -49,7 +52,7 @@ alert( calculator.mul() );
 ```
 ---
 ### Education and courses:
-1. Belarusian State University of Informatics and Radioelectronics (Nanotechnology and Nanomaterials in Electronics) 
+1. Belarusian State University of Informatics and Radioelectronics (Nanotechnology and Nanomaterials in Electronics). 
 2. Online course: Facebook Master. Instagram Facebook/Social media advertising setup course. 
 3. Online course: Instaboss 2.0. Course on promotion and monetization of Instagram accounts. 
 4. Online course: Profession - Packer. A course on creating single-page websites, structuring information on them and writing selling texts. 
@@ -57,4 +60,4 @@ alert( calculator.mul() );
 
 ---
 ### Languages:
-* English: Level - A1
+* English: level - A1
