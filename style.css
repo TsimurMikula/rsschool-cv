@@ -1,6 +1,6 @@
 body {
-    font-family: 'Roboto', sans-serif;
-    src: url("assets/fonts/Roboto/Roboto.ttf");
+    font-family: 'OpenSans', sans-serif;
+    src: url("./assets/fonts/OpenSans/OpenSans-ExtraBoldItalic.ttf");
     font-size: 18px;
     font-weight: 500;
     line-height: 1.4;
@@ -57,6 +57,12 @@ html {
   .main-container {
     display: flex;
     flex-wrap: wrap;
+  }
+
+  .footer-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
   }
   
   .section {
