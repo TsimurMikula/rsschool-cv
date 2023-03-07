@@ -90,3 +90,7 @@ html{
   flex-wrap: wrap;
   justify-content: space-between;
 }
+.footer-container__logo{
+  width: 121px;
+  height: 45px;
+}
